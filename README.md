@@ -70,6 +70,12 @@ Here are a few of the visualizations and insights this project uncovers:
 
 ---
 
+## How to Run
+- Clone the repo
+- Open in Google Colab or Jupyter Notebook
+- Run each cell sequentially
+
+
 ## 📚 What I Learned
 
 Through this project, I:
