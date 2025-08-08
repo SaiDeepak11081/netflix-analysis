@@ -14,8 +14,10 @@ Ever wondered what kind of content Netflix offers, how it has evolved over time,
 
 ---
 
-## 📌 Dataset Used
-- **Source**: Netflix Titles Dataset  
+## 📑 Dataset
+The dataset is available at: [Netflix Dataset Link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)  
+This link loads directly in Google Colab for analysis.
+
 - Contains over 8,000+ records of TV Shows and Movies available on Netflix  
 - Features include: `title`, `type`, `release year`, `country`, `duration`, `rating`, and more!
 
